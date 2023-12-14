@@ -1,0 +1,34 @@
+[
+    {
+        "set": [
+            "flour",
+            "eggs",
+            "milk",
+            "cheese",
+            "sugar",
+            "mustard"
+        ],
+        "subset": [
+            "flour",
+            "eggs",
+            "milk",
+            "sugar"
+        ]
+    },
+    {
+        "set": [
+            "tomatoe",
+            "lettuce",
+            "banana",
+            "feta cheese",
+            "maple syrup",
+            "olive oil"
+        ],
+        "subset": [
+            "tomatoe",
+            "lettuce",
+            "feta cheese",
+            "olive oil"
+        ]
+    }
+]
