@@ -30,5 +30,55 @@
             "feta cheese",
             "olive oil"
         ]
+    },
+    {
+        "set": [
+            "freshly_ground_black_pepper",
+            "hot_milk",
+            "mayonnaise",
+            "orange_jello",
+            "tomato",
+            "cucumber"
+        ],
+        "subset": [
+            "freshly_ground_black_pepper",
+            "mayonnaise",
+            "tomato",
+            "cucumber"
+        ]
+    },
+    {
+        "set": [
+            "mushroom",
+            "nuts",
+            "outmeal",
+            "vodka",
+            "raisins",
+            "salami",
+            "honey"
+        ],
+        "subset": [
+            "outmeal",
+            "raisins",
+            "nuts",
+            "honey"
+        ]
+    },
+    {
+        "set": [
+            "cheddar cheese",
+            "ground beef",
+            "chili_powder",
+            "chives",
+            "shredded coconut",
+            "yellow cake",
+            "quinoa"
+        ],
+        "subset": [
+            "cheddar cheese",
+            "ground beef",
+            "chili_powder",
+            "chives"
+        ]
     }
 ]
