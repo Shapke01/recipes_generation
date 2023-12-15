@@ -80,5 +80,103 @@
             "chili_powder",
             "chives"
         ]
+    },
+    {
+        "set": [
+            "graham_crackers",
+            "grape_tomatoes",
+            "chocolate",
+            "marshmallows",
+            "red_cabbage",
+            "sour_milk",
+            "yeast"
+        ],
+        "subset": [
+            "graham_crackers",
+            "chocolate",
+            "marshmallows"
+        ]
+    },
+    {
+        "set": [
+            "blackberries",
+            "strawberries",
+            "bananas",
+            "raspberries",
+            "salmon",
+            "sweet onions",
+            "turmeric"
+        ],
+        "subset": [
+            "blackberries",
+            "strawberries",
+            "bananas",
+            "raspberries"
+        ]
+    },
+    {
+        "set": [
+            "chunky peanut butter",
+            "strawberry jello",
+            "white bread",
+            "white rum",
+            "yellow squash",
+            "turkey"
+        ],
+        "subset": [
+            "chunky peanut_butter",
+            "strawberry jello",
+            "white bread"
+        ]
+    },
+    {
+        "set": [
+            "rice",
+            "chicken breast",
+            "salt",
+            "soda",
+            "onion",
+            "tapioca"
+        ],
+        "subset": [
+            "rice",
+            "chicken breast",
+            "salt",
+            "onion"
+        ]
+    },
+    {
+        "set": [
+            "potatoes",
+            "steak",
+            "steak sauce",
+            "salt",
+            "corn bread",
+            "vanilla_flavoring"
+        ],
+        "subset": [
+            "potatoes",
+            "steak",
+            "steak sauce",
+            "salt"
+        ]
+    },
+    {
+        "set": [
+            "rice",
+            "beans",
+            "cilantro",
+            "green pepper",
+            "tortillas",
+            "dijon mustard",
+            "egg_noodles"
+        ],
+        "subset": [
+            "rice",
+            "beans",
+            "cilantro",
+            "green pepper",
+            "tortillas"
+        ]
     }
 ]
