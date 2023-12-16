@@ -1,0 +1,262 @@
+[
+    {
+        "set": [
+            "flour",
+            "eggs",
+            "milk",
+            "cheese",
+            "sugar",
+            "mustard"
+        ],
+        "subset": [
+            "flour",
+            "eggs",
+            "milk",
+            "sugar"
+        ]
+    },
+    {
+        "set": [
+            "tomatoe",
+            "lettuce",
+            "banana",
+            "feta cheese",
+            "maple syrup",
+            "olive oil"
+        ],
+        "subset": [
+            "tomatoe",
+            "lettuce",
+            "feta cheese",
+            "olive oil"
+        ]
+    },
+    {
+        "set": [
+            "freshly_ground_black_pepper",
+            "hot_milk",
+            "mayonnaise",
+            "orange_jello",
+            "tomato",
+            "cucumber"
+        ],
+        "subset": [
+            "freshly_ground_black_pepper",
+            "mayonnaise",
+            "tomato",
+            "cucumber"
+        ]
+    },
+    {
+        "set": [
+            "mushroom",
+            "nuts",
+            "outmeal",
+            "vodka",
+            "raisins",
+            "salami",
+            "honey"
+        ],
+        "subset": [
+            "outmeal",
+            "raisins",
+            "nuts",
+            "honey"
+        ]
+    },
+    {
+        "set": [
+            "cheddar cheese",
+            "ground beef",
+            "chili_powder",
+            "chives",
+            "shredded coconut",
+            "yellow cake",
+            "quinoa"
+        ],
+        "subset": [
+            "cheddar cheese",
+            "ground beef",
+            "chili_powder",
+            "chives"
+        ]
+    },
+    {
+        "set": [
+            "graham_crackers",
+            "grape_tomatoes",
+            "chocolate",
+            "marshmallows",
+            "red_cabbage",
+            "sour_milk",
+            "yeast"
+        ],
+        "subset": [
+            "graham_crackers",
+            "chocolate",
+            "marshmallows"
+        ]
+    },
+    {
+        "set": [
+            "blackberries",
+            "strawberries",
+            "bananas",
+            "raspberries",
+            "salmon",
+            "sweet onions",
+            "turmeric"
+        ],
+        "subset": [
+            "blackberries",
+            "strawberries",
+            "bananas",
+            "raspberries"
+        ]
+    },
+    {
+        "set": [
+            "chunky peanut butter",
+            "strawberry jello",
+            "white bread",
+            "white rum",
+            "yellow squash",
+            "turkey"
+        ],
+        "subset": [
+            "chunky peanut_butter",
+            "strawberry jello",
+            "white bread"
+        ]
+    },
+    {
+        "set": [
+            "rice",
+            "chicken breast",
+            "salt",
+            "soda",
+            "onion",
+            "tapioca"
+        ],
+        "subset": [
+            "rice",
+            "chicken breast",
+            "salt",
+            "onion"
+        ]
+    },
+    {
+        "set": [
+            "potatoes",
+            "steak",
+            "steak sauce",
+            "salt",
+            "corn bread",
+            "vanilla_flavoring"
+        ],
+        "subset": [
+            "potatoes",
+            "steak",
+            "steak sauce",
+            "salt"
+        ]
+    },
+    {
+        "set": [
+            "rice",
+            "beans",
+            "cilantro",
+            "green pepper",
+            "tortillas",
+            "dijon mustard",
+            "egg_noodles"
+        ],
+        "subset": [
+            "rice",
+            "beans",
+            "cilantro",
+            "green pepper",
+            "tortillas"
+        ]
+    },
+	{
+        "set": [
+			"butter", "sugar", "pineapple", "bread", "eggs", "milk", "cinnamon", "sugar", "pecans", "margarine", "cocoa"
+        ],
+        "subset": [
+			"butter", "sugar", "pineapple", "bread", "eggs", "milk", "cinnamon", "sugar", "pecans"
+        ]
+    },
+	{
+        "set": [
+			"pork", "brown sugar", "ground beef", "onions", "bell peppers", "ketchup", "grated cheese", "Worcestershire sauce", "bacon", "vanilla wafers", "bananas", "sour cream"
+        ],
+        "subset": [
+			"pork", "brown sugar", "ground beef", "onions", "bell peppers", "ketchup", "grated cheese", "Worcestershire sauce", "bacon"
+        ]
+    },
+	{
+        "set": [
+			"cabbage", "salt", "pepper", "tomato juice", "bacon", "parsley", "flour", "brown sugar", "butter"
+        ],
+        "subset": [
+			"cabbage", "salt", "pepper", "tomato juice", "bacon", "parsley"
+        ]
+    },
+	{
+        "set": [
+			"egg", "milk", "flour", "sugar", "salt", "soda", "baking powder", "pineapple", "lime jello"
+        ],
+        "subset": [
+			"egg", "milk", "flour", "sugar", "salt", "soda", "baking powder"
+        ]
+    },
+	{
+        "set": [
+			"butter", "powdered sugar", "crunchy peanut butter", "Rice Krispies", "chocolate chips", "paraffin", "hamburger", "mushroom soup", "water"
+        ],
+        "subset": [
+			"butter", "powdered sugar", "crunchy peanut butter", "Rice Krispies", "chocolate chips", "paraffin"
+        ]
+    },
+	{
+        "set": [
+			"eggs", "milk", "vanilla", "butter", "sugar", "flour", "coconut", "rice", "white onion"
+        ],
+        "subset": [
+			"eggs", "milk", "vanilla", "butter", "sugar", "flour", "coconut"
+        ]
+    },
+	{
+        "set": [
+			"confectioners sugar", "milk", "vanilla", "coconut", "pecans", "chocolate", "paraffin", "onion", "green pepper"
+        ],
+        "subset": [
+			"confectioners sugar", "milk", "vanilla", "coconut", "pecans", "chocolate", "paraffin"
+        ]
+    },
+	{
+        "set": [
+			"lean ground beef", "salt", "liquid smoke", "water", "onion powder", "pepper", "garlic powder", "peppercorns", "corn", "corn"
+        ],
+        "subset": [
+			"lean ground beef", "salt", "liquid smoke", "water", "onion powder", "pepper", "garlic powder", "peppercorns"
+        ]
+    },
+	{
+        "set": [
+			"butter", "confectioners sugar", "cream cheese", "chocolate instant pudding", "milk", "Oreo cookies", "sugar", "eggs"
+        ],
+        "subset": [
+			"butter", "confectioners sugar", "cream cheese", "chocolate instant pudding", "milk", "Oreo cookies"
+        ]
+    },
+	{
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    }
+]
