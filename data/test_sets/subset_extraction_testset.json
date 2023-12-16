@@ -17,7 +17,7 @@
     },
     {
         "set": [
-            "tomatoe",
+            "tomatoes",
             "lettuce",
             "banana",
             "feta cheese",
@@ -25,7 +25,7 @@
             "olive oil"
         ],
         "subset": [
-            "tomatoe",
+            "tomatoes",
             "lettuce",
             "feta cheese",
             "olive oil"
@@ -252,6 +252,99 @@
         ]
     },
 	{
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },{
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
+        "set": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+        ],
+        "subset": [
+			"ground chuck", "salt", "onions", "celery soup", "Tater"
+        ]
+    },
+    {
         "set": [
 			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
         ],
