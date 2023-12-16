@@ -6,7 +6,7 @@ import pathlib
 
 class Extractor():
     
-    def __init__(self, path: str, threshold: float = 0.01):
+    def __init__(self, path: str, threshold: float = 0):
         self.loadCorrelationDict(path)
         self.threshold = threshold
 
@@ -31,10 +31,11 @@ class Extractor():
                     ing1_sum += self.getCorrelation(ing1, ing2)
 
             average_corr = ing1_sum / (len(ingredients)-1)
-            # print(ing1 + ": " + str(average_corr))
+            print(ing1 + ": " + str(average_corr))
             if average_corr > self.threshold:
                 subset.append(ing1)
 
+        print()
         return subset
 
 

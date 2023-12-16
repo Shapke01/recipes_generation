@@ -18,7 +18,7 @@
     {
         "set": [
             "tomatoes",
-            "lettuce",
+            "head_lettuce",
             "banana",
             "feta cheese",
             "maple syrup",
@@ -26,7 +26,7 @@
         ],
         "subset": [
             "tomatoes",
-            "lettuce",
+            "head_lettuce",
             "feta cheese",
             "olive oil"
         ]
@@ -275,81 +275,81 @@
 
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"lasagna_noodles", "red_pepper", "eggplant", "olive_oil", "mozzarella", "cherry_tomatoes", "chicken_stock", "mango"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"lasagna_noodles", "red_pepper", "eggplant", "olive_oil", "mozzarella", "cherry_tomatoes"
         ]
     },{
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"sweet_potatoes", "oil", "chicken_thighs", "red_onions", "tabasco_sauce", "broccoli", "carrots", "chocolate_cake_mix", "fresh_cranberries"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"sweet_potatoes", "oil", "chicken_thighs", "red_onions", "tabasco_sauce", "broccoli"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"bacon", "onion", "butter", "rice", "white_wine", "cherry_tomatoes", "chicken_stock", "parmesan", "sausage", "shrimp", "unsweetened_applesauce"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"bacon", "onion", "butter", "rice", "white_wine", "cherry_tomatoes", "chicken_stock", "parmesan"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"sunflower_oil", "white_flour", "cocoa_powder", "baking_soda", "caster_sugar" ,"maple_syrup", "egg", "milk", "butter", "cabbage", "cherry"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"sunflower_oil", "white_flour", "cocoa_powder", "baking_soda", "caster_sugar" ,"maple_syrup", "egg", "milk", "butter"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"flour", "zucchini", "oil", "parmesan", "pear", "popcorn"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"flour", "zucchini", "oil", "parmesan"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"potatoes", "oil", "onions", "green_pepper", "tarragon", "baby_spinach", "eggs", "beef_bouillon", "browns", "chilies"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"potatoes", "oil", "onions", "green_pepper", "tarragon", "baby_spinach", "eggs"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"maple_syrup", "lemon", "breadcrumbs", "butter", "caster_sugar", "eggs", "flour", "milk", "cake_mix", "cheddar", "cream_of_tartar"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"maple_syrup", "lemon", "breadcrumbs", "butter", "caster_sugar", "eggs", "flour", "milk"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"flour", "baking_powder", "baking_soda", "caster_sugar", "butter", "vanilla", "eggs", "bananas", "buttermilk", "pecans", "pepperoni", "radishes"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"flour", "baking_powder", "baking_soda", "caster_sugar", "butter", "vanilla", "eggs", "bananas", "buttermilk", "pecans"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"oil", "ginger_root", "onions", "curry", "tomato" , "cream_of_coconut", "shrimp", "corn_flakes", "cream_of_mushroom", "egg"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"oil", "ginger_root", "onions", "curry", "tomato" , "cream_of_coconut", "shrimp"
         ]
     },
     {
         "set": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater", "flour", "brown sugar", "shortening"
+			"red_pepper", "rice", "pesto_sauce", "black_olives", "goat_cheese", "ground_pork", "italian_bread_crumbs"
         ],
         "subset": [
-			"ground chuck", "salt", "onions", "celery soup", "Tater"
+			"red_pepper", "rice", "pesto_sauce", "black_olives", "goat_cheese"
         ]
     }
 ]
