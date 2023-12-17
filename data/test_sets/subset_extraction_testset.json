@@ -51,14 +51,14 @@
         "set": [
             "mushroom",
             "nuts",
-            "outmeal",
+            "oatmeal",
             "vodka",
             "raisins",
             "salami",
             "honey"
         ],
         "subset": [
-            "outmeal",
+            "oatmeal",
             "raisins",
             "nuts",
             "honey"
